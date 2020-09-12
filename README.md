@@ -2,11 +2,11 @@
 This code shows how to scrape quotes from a website and save them to an SQLite database.
 It will serve as an example to adapt to other uses. 
 
-./quotes_spider.py - Contains CSS selectors
-./pipelines.py - Creation & Connection to SQLite Database
-./myquotes.db - empty database into which the quotes table will be created and populated. 
-./test - Basic example of sqlite connection 
-./test2 - Example of sqlite connection fed from array of seed data
+./quotes_spider.py - Contains CSS selectors  
+./pipelines.py - Creation & Connection to SQLite Database  
+./myquotes.db - empty database into which the quotes table will be created and populated  
+./test - Basic example of sqlite connection  
+./test2 - Example of sqlite connection fed from array of seed data  
 
 ## Install Dependencies:
 - [Python 3.8.5](https://www.python.org/downloads/release/python-385/)
